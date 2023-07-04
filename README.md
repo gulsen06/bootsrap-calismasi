@@ -7,9 +7,7 @@ Use the photos you found on the internet in the project solution.
 
 ![Project Snapshot](./bootstrap.gif);
 
-## Problem Statement
 
--Your company has recently started on a project that aims to create a company website page. So you and your colleagues have started to work on the project.
 
 ## Resources
 
